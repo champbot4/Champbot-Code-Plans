@@ -1,2 +1,2 @@
 # Champbot-Code
-A bunch of stuff about the Champbot
+Arduino programming for submerging and frame schematic
